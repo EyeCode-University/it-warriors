@@ -1,4 +1,4 @@
-Задание: To-Do List (JavaScript)
+Задание: «Telegram Meal Planner»
 <h2>👥 Студенты </h2>
 <ul>
   <li>Student ID: #FD-240701-010 — Мухаммед Намазов </li>
