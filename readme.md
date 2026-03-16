@@ -1,4 +1,4 @@
-Задание: «Telegram Meal Planner»
+#EyecodeUniversity #Task
 <h2>👥 Студенты </h2>
 <ul>
   <li>Student ID: #FD-240701-010 — Мухаммед Намазов </li>
